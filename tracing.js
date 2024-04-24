@@ -1,3 +1,6 @@
+//Seth Kennedy, code by ESEP, open telemtry documentation, 
+// and chat gpt help with utilizing JaegerExporter
+
 const { NodeSDK } = require('@opentelemetry/sdk-node');
 const { ConsoleSpanExporter } = require('@opentelemetry/sdk-trace-node');
 const {
